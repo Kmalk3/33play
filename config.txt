@@ -1,0 +1,8 @@
+?token=?????? 
+owner=??? ???? 
+prefix= 3
+game= 3help
+stayinchannel=true
+songinstatus=true 
+token=NTIwOTA2MzM5NzAzMTkzNjAw.Du0reg.kdXyRb8Q2doN0yhJG_-CenG-kVU 
+owner=490546269832609792
